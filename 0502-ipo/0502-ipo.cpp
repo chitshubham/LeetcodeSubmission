@@ -8,30 +8,17 @@ public:
         }
         sort(arr.begin(),arr.end());
         priority_queue<int>pq;
-        for(int i =0;i<arr.size()&&k>=0;++i) 
+        int i = 0;
+        while(k--)
         {
-            // cout<<arr[i].first<<" "<<arr[i].second<<" "<<w<<endl;
-             if(arr[i].first<=w) 
-             {
+            while(i<arr.size()&&arr[i].first<=w)
+            {
                 pq.push(arr[i].second);
-             }
-             else 
-             {
-                while(!pq.empty()&&w<arr[i].first && k>0)
-                {
-                    w+=pq.top();
-                    pq.pop();
-                    k--;
-                }
-                // cout<<w<<endl;
-               if(w>=arr[i].first) pq.push(arr[i].second);
-               else return w;
-                
-                
-             }
-        }
-        while(k--&&!pq.empty()) {
-            w+=pq.top();pq.pop();
+                i++;
+            }
+            if(pq.empty()) break;
+          w+=pq.top();
+          pq.pop();
         }
         return w;
     }
