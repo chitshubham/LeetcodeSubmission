@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0648-replace-words) |
+| [1138-grumpy-bookstore-owner](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1138-grumpy-bookstore-owner) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1138-grumpy-bookstore-owner) |
 <!---LeetCode Topics End-->
