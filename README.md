@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0648-replace-words](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0648-replace-words) |
 | [1138-grumpy-bookstore-owner](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1138-grumpy-bookstore-owner) |
+| [1293-three-consecutive-odds](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
 |  |
 | ------- |
