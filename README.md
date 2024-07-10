@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0648-replace-words) |
 | [1138-grumpy-bookstore-owner](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1138-grumpy-bookstore-owner) |
 | [1293-three-consecutive-odds](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1293-three-consecutive-odds) |
+| [1720-crawler-log-folder](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0648-replace-words) |
+| [1720-crawler-log-folder](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1720-crawler-log-folder) |
 ## Trie
 |  |
 | ------- |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
