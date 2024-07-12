@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0648-replace-words) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Trie
 |  |
 | ------- |
@@ -80,4 +81,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1818-maximum-score-from-removing-substrings) |
+## Greedy
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
