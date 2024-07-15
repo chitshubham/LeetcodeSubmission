@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Hash Table
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0648-replace-words](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0648-replace-words) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2306-create-binary-tree-from-descriptions) |
 ## String
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0173-binary-search-tree-iterator) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Design
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0173-binary-search-tree-iterator) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Iterator
 |  |
 | ------- |
