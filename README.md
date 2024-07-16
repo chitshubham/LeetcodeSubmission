@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0392-is-subsequence) |
 | [0648-replace-words](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0648-replace-words) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1720-crawler-log-folder) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -135,4 +137,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0055-jump-game) |
+| [0392-is-subsequence](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
