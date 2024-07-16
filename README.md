@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0113-path-sum-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0113-path-sum-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -121,5 +123,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
