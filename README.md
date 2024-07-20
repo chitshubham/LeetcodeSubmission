@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1138-grumpy-bookstore-owner](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1138-grumpy-bookstore-owner) |
 | [1207-delete-nodes-and-return-forest](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1293-three-consecutive-odds) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0402-remove-k-digits) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Heap (Priority Queue)
 |  |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0402-remove-k-digits) |
+## Matrix
+|  |
+| ------- |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 <!---LeetCode Topics End-->
