@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2727-number-of-senior-citizens) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0648-replace-words) |
 | [1207-delete-nodes-and-return-forest](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1207-delete-nodes-and-return-forest) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2502-sort-the-people) |
 ## String
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2727-number-of-senior-citizens) |
 ## Trie
@@ -214,4 +217,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0948-sort-an-array) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2163-kth-distinct-string-in-an-array) |
 <!---LeetCode Topics End-->
