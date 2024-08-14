@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0648-replace-words](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0648-replace-words) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0948-sort-an-array) |
@@ -74,17 +75,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0392-is-subsequence) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1333-sort-the-jumbled-numbers) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1615-range-sum-of-sorted-subarray-sums) |
