@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0733-flood-fill](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0733-flood-fill) |
 | [0870-magic-squares-in-grid](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0870-magic-squares-in-grid) |
+| [0890-lemonade-change](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0948-sort-an-array) |
 | [1138-grumpy-bookstore-owner](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1138-grumpy-bookstore-owner) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0402-remove-k-digits) |
 | [0738-monotone-increasing-digits](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0738-monotone-increasing-digits) |
+| [0890-lemonade-change](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
