@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0210-course-schedule-ii) |
+| [1558-course-schedule-iv](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1558-course-schedule-iv) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Sliding Window
 |  |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0733-flood-fill) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1207-delete-nodes-and-return-forest) |
+| [1558-course-schedule-iv](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1558-course-schedule-iv) |
 ## Backtracking
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0733-flood-fill) |
+| [1558-course-schedule-iv](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1558-course-schedule-iv) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -266,4 +269,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0210-course-schedule-ii) |
+| [1558-course-schedule-iv](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1558-course-schedule-iv) |
 <!---LeetCode Topics End-->
