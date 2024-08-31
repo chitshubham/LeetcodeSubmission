@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0948-sort-an-array) |
+| [0951-partition-array-into-disjoint-intervals](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [1063-best-sightseeing-pair](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1063-best-sightseeing-pair) |
 | [1138-grumpy-bookstore-owner](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1138-grumpy-bookstore-owner) |
 | [1207-delete-nodes-and-return-forest](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1207-delete-nodes-and-return-forest) |
