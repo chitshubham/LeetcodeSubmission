@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-partition-array-into-disjoint-intervals](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [1063-best-sightseeing-pair](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1063-best-sightseeing-pair) |
 | [1138-grumpy-bookstore-owner](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1138-grumpy-bookstore-owner) |
+| [1169-largest-values-from-labels](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1169-largest-values-from-labels) |
 | [1207-delete-nodes-and-return-forest](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1333-sort-the-jumbled-numbers) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0648-replace-words](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0648-replace-words) |
 | [0870-magic-squares-in-grid](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0870-magic-squares-in-grid) |
+| [1169-largest-values-from-labels](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1169-largest-values-from-labels) |
 | [1207-delete-nodes-and-return-forest](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1207-delete-nodes-and-return-forest) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0948-sort-an-array) |
+| [1169-largest-values-from-labels](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1169-largest-values-from-labels) |
 | [1333-sort-the-jumbled-numbers](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1333-sort-the-jumbled-numbers) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0624-maximum-distance-in-arrays) |
 | [0738-monotone-increasing-digits](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0738-monotone-increasing-digits) |
 | [0890-lemonade-change](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0890-lemonade-change) |
+| [1169-largest-values-from-labels](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1169-largest-values-from-labels) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0948-sort-an-array) |
+| [1169-largest-values-from-labels](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1169-largest-values-from-labels) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Topological Sort
