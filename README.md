@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1169-largest-values-from-labels](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1169-largest-values-from-labels) |
 | [1207-delete-nodes-and-return-forest](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1207-delete-nodes-and-return-forest) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0648-replace-words) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1720-crawler-log-folder](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0392-is-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0650-2-keys-keyboard) |
 | [1063-best-sightseeing-pair](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1063-best-sightseeing-pair) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Rolling Hash
 |  |
 | ------- |
