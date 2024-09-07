@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/chitshubham/LeetcodeSubmission/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1207-delete-nodes-and-return-forest) |
+| [1484-linked-list-in-binary-tree](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1484-linked-list-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Design
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1207-delete-nodes-and-return-forest) |
+| [1484-linked-list-in-binary-tree](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1484-linked-list-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Iterator
 |  |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0733-flood-fill) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1207-delete-nodes-and-return-forest) |
+| [1484-linked-list-in-binary-tree](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1484-linked-list-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1558-course-schedule-iv) |
 ## Backtracking
 |  |
@@ -251,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0733-flood-fill) |
+| [1484-linked-list-in-binary-tree](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1484-linked-list-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1558-course-schedule-iv) |
 ## Monotonic Stack
 |  |
