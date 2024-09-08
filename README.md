@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2727-number-of-senior-citizens) |
+| [2873-prime-pairs-with-target-sum](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2873-prime-pairs-with-target-sum) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/chitshubham/LeetcodeSubmission/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/chitshubham/LeetcodeSubmission/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2873-prime-pairs-with-target-sum](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2873-prime-pairs-with-target-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -328,4 +330,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/chitshubham/LeetcodeSubmission/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
+## Enumeration
+|  |
+| ------- |
+| [2873-prime-pairs-with-target-sum](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2873-prime-pairs-with-target-sum) |
+## Number Theory
+|  |
+| ------- |
+| [2873-prime-pairs-with-target-sum](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2873-prime-pairs-with-target-sum) |
 <!---LeetCode Topics End-->
