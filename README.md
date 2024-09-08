@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2727-number-of-senior-citizens) |
+| [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/chitshubham/LeetcodeSubmission/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/chitshubham/LeetcodeSubmission/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0210-course-schedule-ii) |
 | [1558-course-schedule-iv](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1558-course-schedule-iv) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/chitshubham/LeetcodeSubmission/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0948-sort-an-array](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0948-sort-an-array) |
+| [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/chitshubham/LeetcodeSubmission/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 ## Tree
 |  |
 | ------- |
@@ -321,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Shortest Path
+|  |
+| ------- |
+| [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/chitshubham/LeetcodeSubmission/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 <!---LeetCode Topics End-->
