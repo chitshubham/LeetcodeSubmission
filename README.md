@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-partition-array-into-disjoint-intervals](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [1046-max-consecutive-ones-iii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1063-best-sightseeing-pair) |
+| [1072-next-greater-node-in-linked-list](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1072-next-greater-node-in-linked-list) |
 | [1138-grumpy-bookstore-owner](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1138-grumpy-bookstore-owner) |
 | [1169-largest-values-from-labels](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1169-largest-values-from-labels) |
 | [1207-delete-nodes-and-return-forest](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1207-delete-nodes-and-return-forest) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [1072-next-greater-node-in-linked-list](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1072-next-greater-node-in-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0402-remove-k-digits) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0886-score-of-parentheses](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0886-score-of-parentheses) |
+| [1072-next-greater-node-in-linked-list](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1072-next-greater-node-in-linked-list) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0402-remove-k-digits) |
+| [1072-next-greater-node-in-linked-list](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1072-next-greater-node-in-linked-list) |
 ## Matrix
 |  |
 | ------- |
