@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2502-sort-the-people) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1046-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1138-grumpy-bookstore-owner) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 ## Two Pointers
 |  |
 | ------- |
