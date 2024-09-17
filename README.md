@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2317-count-collisions-on-a-road](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2317-count-collisions-on-a-road) |
 | [2502-sort-the-people](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2317-count-collisions-on-a-road](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2317-count-collisions-on-a-road) |
 | [2411-spiral-matrix-iv](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2411-spiral-matrix-iv) |
 ## Math
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2317-count-collisions-on-a-road](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2317-count-collisions-on-a-road) |
 ## Greedy
 |  |
 | ------- |
