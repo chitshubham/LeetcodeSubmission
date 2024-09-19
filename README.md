@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0402-remove-k-digits) |
 | [0648-replace-words](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0648-replace-words) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0241-different-ways-to-add-parentheses) |
 | [0650-2-keys-keyboard](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0650-2-keys-keyboard) |
 | [0738-monotone-increasing-digits](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0738-monotone-increasing-digits) |
 | [0870-magic-squares-in-grid](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0870-magic-squares-in-grid) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0241-different-ways-to-add-parentheses) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0055-jump-game) |
+| [0241-different-ways-to-add-parentheses](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0241-different-ways-to-add-parentheses) |
 | [0338-counting-bits](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0392-is-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0650-2-keys-keyboard) |
@@ -368,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2873-prime-pairs-with-target-sum](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2873-prime-pairs-with-target-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
