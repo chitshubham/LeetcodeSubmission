@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2873-prime-pairs-with-target-sum](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2873-prime-pairs-with-target-sum) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/chitshubham/LeetcodeSubmission/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/chitshubham/LeetcodeSubmission/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3528-reach-end-of-array-with-max-score](https://github.com/chitshubham/LeetcodeSubmission/tree/master/3528-reach-end-of-array-with-max-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3528-reach-end-of-array-with-max-score](https://github.com/chitshubham/LeetcodeSubmission/tree/master/3528-reach-end-of-array-with-max-score) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
