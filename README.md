@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1072-next-greater-node-in-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/chitshubham/LeetcodeSubmission/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0113-path-sum-ii) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0113-path-sum-ii) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0113-path-sum-ii) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0210-course-schedule-ii) |
@@ -296,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0127-word-ladder](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0210-course-schedule-ii) |
