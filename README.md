@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0402-remove-k-digits) |
+| [0516-longest-palindromic-subsequence](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0516-longest-palindromic-subsequence) |
 | [0648-replace-words](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0648-replace-words) |
 | [0886-score-of-parentheses](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0886-score-of-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1250-longest-common-subsequence) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0241-different-ways-to-add-parentheses) |
 | [0338-counting-bits](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0516-longest-palindromic-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0646-maximum-length-of-pair-chain) |
 | [0650-2-keys-keyboard](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0650-2-keys-keyboard) |
 | [1063-best-sightseeing-pair](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1063-best-sightseeing-pair) |
