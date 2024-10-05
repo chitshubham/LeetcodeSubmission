@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0474-ones-and-zeroes](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0474-ones-and-zeroes) |
 | [0624-maximum-distance-in-arrays](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0624-maximum-distance-in-arrays) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0648-replace-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0127-word-ladder) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0648-replace-words](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0648-replace-words) |
 | [0870-magic-squares-in-grid](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0870-magic-squares-in-grid) |
 | [1169-largest-values-from-labels](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1169-largest-values-from-labels) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0209-minimum-size-subarray-sum) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1046-max-consecutive-ones-iii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1046-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1138-grumpy-bookstore-owner) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1967-longest-substring-of-all-vowels-in-order) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0368-largest-divisible-subset) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0646-maximum-length-of-pair-chain) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0948-sort-an-array) |
@@ -218,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0330-patching-array) |
 | [0402-remove-k-digits](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0402-remove-k-digits) |
 | [0624-maximum-distance-in-arrays](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0624-maximum-distance-in-arrays) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0646-maximum-length-of-pair-chain) |
 | [0738-monotone-increasing-digits](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0738-monotone-increasing-digits) |
 | [0890-lemonade-change](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0890-lemonade-change) |
@@ -230,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0948-sort-an-array](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0948-sort-an-array) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/chitshubham/LeetcodeSubmission/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 ## Tree
