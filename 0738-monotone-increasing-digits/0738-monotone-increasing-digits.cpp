@@ -17,7 +17,7 @@ public:
         s[i] = '9';
        }
       int N =  stoi(s);
-    cout<<s<<endl;
+   
       return N;
     }
 };
