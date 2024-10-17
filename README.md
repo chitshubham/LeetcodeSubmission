@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0092-reverse-linked-list-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1072-next-greater-node-in-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1484-linked-list-in-binary-tree) |
