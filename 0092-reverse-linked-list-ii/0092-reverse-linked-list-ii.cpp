@@ -10,46 +10,26 @@
  */
 class Solution {
 public:
-    ListNode* rev(ListNode* head){
-        ListNode* prev = NULL;
-        ListNode * curr = head;
-        ListNode * forw = head;
-        while(curr!=NULL){
-            forw = forw->next;
-             curr->next= prev;
-             prev = curr;
-             curr = forw;
-        }
-        return prev;
-    }
     ListNode* reverseBetween(ListNode* head, int left, int right) {
-        ListNode* leftNode = NULL;
-        ListNode* rightNode = NULL;
-        ListNode* pleft = NULL;
-        ListNode* pright = NULL;
-        ListNode * curr = head;
-        if(left==right) return head;
-        int cnt = 1 ;
-        while(curr!=NULL){
-            if(cnt==left){
-                leftNode = curr;
-            }
-            if(cnt == right ){
-                rightNode = curr;
-            }
-            if(cnt == left - 1 ) pleft = curr;
-            if(cnt == right+1) pright = curr;
-             cnt++;
+        if(!head || left == right ) return head;
+        ListNode* prev = NULL;
+        ListNode* curr = head;
+        for(int i = 1 ; i<left;++i){
+            prev = curr;
             curr = curr->next;
         }
-        if(pleft==NULL&& pright == NULL) return rev(head);
-        rightNode->next = NULL;
-        ListNode* temp = rev(leftNode);
-        if(pleft!=NULL) 
-         pleft->next = rightNode; 
+        ListNode* connection = prev;
+        ListNode* tail = curr;
+        for(int i = 0; i<=(right-left);++i){
+            ListNode* temp = curr->next;
+            curr->next = prev;
+            prev = curr ;
+            curr = temp;
+        }
+        if(connection!=NULL) connection->next = prev;
+        else head = prev;
+        tail->next = curr;
+        return head;
 
-        leftNode->next = pright;
-        if(pleft==NULL) return rightNode;
-         return head;
     }
 };
