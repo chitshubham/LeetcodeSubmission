@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0368-largest-divisible-subset) |
 | [0650-2-keys-keyboard](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0650-2-keys-keyboard) |
+| [0670-maximum-swap](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0670-maximum-swap) |
 | [0738-monotone-increasing-digits](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0738-monotone-increasing-digits) |
 | [0870-magic-squares-in-grid](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1642-water-bottles) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0646-maximum-length-of-pair-chain) |
+| [0670-maximum-swap](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0670-maximum-swap) |
 | [0738-monotone-increasing-digits](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0738-monotone-increasing-digits) |
 | [0890-lemonade-change](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0890-lemonade-change) |
 | [1169-largest-values-from-labels](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1169-largest-values-from-labels) |
