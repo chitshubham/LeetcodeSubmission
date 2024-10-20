@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0948-sort-an-array) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0951-partition-array-into-disjoint-intervals) |
+| [1002-maximum-width-ramp](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1002-maximum-width-ramp) |
 | [1046-max-consecutive-ones-iii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1063-best-sightseeing-pair) |
 | [1072-next-greater-node-in-linked-list](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1072-next-greater-node-in-linked-list) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0402-remove-k-digits) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0886-score-of-parentheses](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0886-score-of-parentheses) |
+| [1002-maximum-width-ramp](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1002-maximum-width-ramp) |
 | [1072-next-greater-node-in-linked-list](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1072-next-greater-node-in-linked-list) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1720-crawler-log-folder) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0402-remove-k-digits) |
+| [1002-maximum-width-ramp](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1002-maximum-width-ramp) |
 | [1072-next-greater-node-in-linked-list](https://github.com/chitshubham/LeetcodeSubmission/tree/master/1072-next-greater-node-in-linked-list) |
 ## Matrix
 |  |
