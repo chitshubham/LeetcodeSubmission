@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0063-unique-paths-ii) |
+| [0118-pascals-triangle](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0118-pascals-triangle) |
 | [0179-largest-number](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0209-minimum-size-subarray-sum) |
 | [0330-patching-array](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0330-patching-array) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0063-unique-paths-ii) |
+| [0118-pascals-triangle](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0118-pascals-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0241-different-ways-to-add-parentheses) |
 | [0338-counting-bits](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0368-largest-divisible-subset) |
