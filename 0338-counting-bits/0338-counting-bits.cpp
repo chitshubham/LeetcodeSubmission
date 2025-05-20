@@ -1,11 +1,10 @@
 class Solution {
 public:
     vector<int> countBits(int n) {
-        vector<int>nums(n+1,0);
-        nums[0] = 0;
-        for(int i  = 1 ; i<=n;++i){
-            nums[i] = nums[i/2]+i%2;
+        vector<int>ans(n+1,0);
+        for(int i = 1; i<n+1;++i){
+            ans[i] = ans[i>>1] + (i&1);
         }
-        return nums;
+        return ans;
     }
 };
