@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0118-pascals-triangle) |
 | [0179-largest-number](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0179-largest-number) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0127-word-ladder) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0733-flood-fill) |
 | [0870-magic-squares-in-grid](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0921-spiral-matrix-iii) |
