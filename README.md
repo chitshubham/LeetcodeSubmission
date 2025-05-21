@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0241-different-ways-to-add-parentheses) |
+| [0343-integer-break](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0368-largest-divisible-subset) |
 | [0650-2-keys-keyboard](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0670-maximum-swap) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0118-pascals-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0241-different-ways-to-add-parentheses) |
 | [0338-counting-bits](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0474-ones-and-zeroes) |
