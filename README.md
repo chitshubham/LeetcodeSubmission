@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0073-set-matrix-zeroes) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0113-path-sum-ii) |
 ## Dynamic Programming
 |  |
