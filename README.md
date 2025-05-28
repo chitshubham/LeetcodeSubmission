@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0073-set-matrix-zeroes) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0047-permutations-ii) |
 | [0113-path-sum-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0113-path-sum-ii) |
 ## Dynamic Programming
 |  |
