@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0241-different-ways-to-add-parentheses) |
+| [0306-additive-number](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0306-additive-number) |
 | [0392-is-subsequence](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0402-remove-k-digits) |
 | [0474-ones-and-zeroes](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0474-ones-and-zeroes) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0047-permutations-ii) |
 | [0113-path-sum-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0113-path-sum-ii) |
+| [0306-additive-number](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0306-additive-number) |
 ## Dynamic Programming
 |  |
 | ------- |
