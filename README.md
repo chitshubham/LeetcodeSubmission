@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0241-different-ways-to-add-parentheses) |
 | [0343-integer-break](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0368-largest-divisible-subset) |
 | [0650-2-keys-keyboard](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0670-maximum-swap) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0047-permutations-ii) |
 | [0113-path-sum-ii](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0113-path-sum-ii) |
 | [0306-additive-number](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0306-additive-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0357-count-numbers-with-unique-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0241-different-ways-to-add-parentheses) |
 | [0338-counting-bits](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/chitshubham/LeetcodeSubmission/tree/master/0474-ones-and-zeroes) |
